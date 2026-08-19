@@ -4,8 +4,6 @@ I design and build things for the internet.
 
 Running **[Stratus Labs](https://stratuslabs.com)** from Sarasota, FL — a one-person product studio powered by AI agents. Previously designed tools for 600K+ creators at [Kit](https://kit.com) for nearly 9 years. Built Figma plugins used by 2M+ designers.
 
-Now shipping products at a pace that shouldn't be possible.
-
 ---
 
 #### What I'm building
@@ -17,6 +15,10 @@ Now shipping products at a pace that shouldn't be possible.
 #### Recent experiments
 
 🧠 **[skills](https://github.com/dylanfeltus/skills)** — A library of AI agent skills for research and design. Drop a folder in, it just works.
+
+👨‍💻 **[cli-starter](https://github.com/stratuslabs/cli-starter)** — A template for building command-line tools with authentication.
+
+⛵️ **[ship](https://github.com/stratuslabs/ship)** — Next.js SaaS starter kit for AI agents
 
 🎨 **[otto-canvas](https://github.com/dylanfeltus/otto-canvas)** — AI-powered design tool. Describe any design and get polished HTML/CSS variations with real images.
 
