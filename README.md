@@ -8,7 +8,9 @@ Running **[Stratus Labs](https://stratuslabs.com)** from Sarasota, FL — a one-
 
 #### What I'm building
 
-🖥️ **[GUI](https://gui.now)** — Instant shareable HTML canvases via API. Like ngrok for UI.
+🖥️ **[GUI](https://gui.now)** — Instant shareable HTML canvases for AI agents.
+
+📣 **[Updates.Page](https://updates.page)** — Agent-first changelogs
 
 ---
 
