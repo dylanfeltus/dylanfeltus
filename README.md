@@ -8,6 +8,8 @@ Running **[Stratus Labs](https://stratuslabs.com)** from Sarasota, FL — a one-
 
 #### What I'm building
 
+🤖 **[Stratus Agent](https://github.com/stratuslabs/agent)** — Always-on agents that get smarter over time.
+
 🖥️ **[GUI](https://gui.now)** — Instant shareable HTML canvases for AI agents.
 
 📣 **[Updates.Page](https://updates.page)** — Agent-first changelogs
@@ -20,11 +22,11 @@ Running **[Stratus Labs](https://stratuslabs.com)** from Sarasota, FL — a one-
 
 👨‍💻 **[cli-starter](https://github.com/stratuslabs/cli-starter)** — A template for building command-line tools with authentication.
 
-⛵️ **[ship](https://github.com/stratuslabs/ship)** — Next.js SaaS starter kit for AI agents
+📄 **[site-to-md](https://github.com/dylanfeltus/site-to-md)** — Make any website AI-agent-readable. Generates `/llms.txt` + clean markdown for every page.
+
+⛵️ **[ship](https://github.com/stratuslabs/ship)** — Next.js SaaS starter kit made for AI agents
 
 🎨 **[otto-canvas](https://github.com/dylanfeltus/otto-canvas)** — AI-powered design tool. Describe any design and get polished HTML/CSS variations with real images.
-
-📄 **[site-to-md](https://github.com/dylanfeltus/site-to-md)** — Make any website AI-agent-readable. Generates `/llms.txt` + clean markdown for every page.
 
 🧪 **[overnight-experimenter](https://github.com/dylanfeltus/overnight-experimenter)** — Give an AI agent a codebase, a metric, and a time budget. Let it run experiments overnight.
 
@@ -38,6 +40,6 @@ Running **[Stratus Labs](https://stratuslabs.com)** from Sarasota, FL — a one-
 
 #### Elsewhere
 
-📨 **[Monday Context](https://dylanfeltus.com/newsletter)** — I read too much AI stuff so you don't have to. Sent every Monday morning.
+📨 **[Monday Context](https://dylanfeltus.com/newsletter)** — I read too much AI stuff and curate my favorites. Sent every Monday morning.
 
 🌐 [dylanfeltus.com](https://dylanfeltus.com) · 𝕏 [@DylanFeltus](https://x.com/DylanFeltus) · 📧 [dylan@stratuslabs.com](mailto:dylan@stratuslabs.com)
