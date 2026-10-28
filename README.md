@@ -10,6 +10,8 @@ Running **[Stratus Labs](https://stratuslabs.com)** from Sarasota, FL — a one-
 
 🤖 **[Stratus Agent](https://github.com/stratuslabs/agent)** — Always-on agents that get smarter over time.
 
+✨ **[Stellar](https://usestellar.com)** — Give your Claude better design context.
+
 🖥️ **[GUI](https://gui.now)** — Instant shareable HTML canvases for AI agents.
 
 📣 **[Updates.Page](https://updates.page)** — Agent-first changelogs
